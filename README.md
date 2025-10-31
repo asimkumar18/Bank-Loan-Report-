@@ -71,8 +71,8 @@ Majority funded loans belong to individuals under Mortgage & Rent ownership.
 
 ### Dashboard Previews
 
-![Summary Dashboard]
+![Summary Dashboard](https://github.com/asimkumar18/Bank-Loan-Report-/blob/main/Summary%20Dashboard.png)
 #### Overview Dashboard
-![Overview Dashboard]
+![Overview Dashboard](https://github.com/asimkumar18/Bank-Loan-Report-/blob/main/Overview%20Dashboard.png)
 #### Details Dashboard
-![Details Dashboard]
+![Details Dashboard](https://github.com/asimkumar18/Bank-Loan-Report-/blob/main/Details%20Dashboard.png)
